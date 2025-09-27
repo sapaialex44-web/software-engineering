@@ -1,2 +1,6 @@
-# Frontend Week 5
-Add notes, exercises, and mini projects for Frontend Week 5 here.
+## Week 6 → JavaScript Intermediate
+- Arrays & Objects
+- Loops and Iterations
+- ES6 Features (let, const, arrow functions, template literals)
+- Fetch API (basic data fetching)
+- Mini Project: Weather App

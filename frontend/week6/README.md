@@ -1,2 +1,6 @@
-# Frontend Week 6
-Add notes, exercises, and mini projects for Frontend Week 6 here.
+## Week 7 → Advanced Frontend (React)
+- React Components & JSX
+- State & Props
+- Event Handling
+- Conditional Rendering
+- Mini Project: React Portfolio Site

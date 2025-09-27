@@ -1,2 +1,6 @@
-# Frontend Week 1
-Add notes, exercises, and mini projects for Frontend Week 1 here.
+## Week 1 → HTML Basics
+- Introduction to HTML & Document Structure
+- Headings, Paragraphs, Text Formatting
+- Lists, Links, Images
+- Tables & Forms
+- Mini Project: Personal Portfolio Page

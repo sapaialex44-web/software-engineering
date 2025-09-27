@@ -1,2 +1,5 @@
-# Extra Skills Week 13
-Add notes, exercises, and projects for Extra Skills Week 13 here.
+## Week 13 → Software Engineering Principles
+- Agile & Scrum Basics
+- Design Patterns Overview
+- Code Organization & Best Practices
+- Mini Project: Apply principles to a small app

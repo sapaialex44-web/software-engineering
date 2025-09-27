@@ -1,2 +1,5 @@
-# Backend Week 8
-Add notes, exercises, and projects for Backend Week 8 here.
+## Week 8 → Introduction to Backend
+- Understanding Backend Architecture
+- HTTP & REST Basics
+- Node.js Introduction
+- Mini Project: Simple API Server

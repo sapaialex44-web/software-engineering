@@ -1,2 +1,5 @@
-# Backend Week 12
-Add notes, exercises, and projects for Backend Week 12 here.
+## Week 12 → Fullstack Integration
+- Connect Frontend with Backend
+- Fetch API / Axios
+- Handling API responses
+- Mini Project: Fullstack Blog App

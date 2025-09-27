@@ -1,2 +1,5 @@
-# Backend Week 11
-Add notes, exercises, and projects for Backend Week 11 here.
+## Week 11 → Authentication & Security
+- User Authentication (JWT, Sessions)
+- Password Hashing
+- Middleware Security
+- Mini Project: Authenticated API
