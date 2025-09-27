@@ -2,6 +2,9 @@
 
 Welcome! This repository contains a structured 18-week Software Engineering learning path.
 
+## Progress Tracker
+- Track your progress here: [progress.txt](progress.txt)
+
 ## High-Level Overview
 - [LEARNING_PATH_HIGHLEVEL.txt](LEARNING_PATH_HIGHLEVEL.txt) → Quick roadmap
 - [LEARNING_PATH.txt](LEARNING_PATH.txt) → Detailed week-by-week tasks
