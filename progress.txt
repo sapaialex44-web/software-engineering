@@ -1,0 +1,25 @@
+# Software Engineering Learning Pathway Progress Tracker
+
+## Frontend Development
+Week 1 → HTML Basics : Not Started
+Week 2 → CSS Basics : Not Started
+Week 3 → CSS Intermediate : Not Started
+Week 4–5 → JavaScript Basics : Not Started
+Week 6 → JavaScript Intermediate : Not Started
+Week 7 → Advanced Frontend (React) : Not Started
+
+## Backend Development
+Week 8 → Introduction to Backend : Not Started
+Week 9 → Express.js & Routing : Not Started
+Week 10 → Databases (SQL & NoSQL) : Not Started
+Week 11 → Authentication & Security : Not Started
+Week 12 → Fullstack Integration : Not Started
+
+## Extra Skills
+Week 13 → Software Engineering Principles : Not Started
+Week 14 → Software Testing : Not Started
+Week 15 → Version Control & Collaboration : Not Started
+Week 16 → DevOps & Deployment : Not Started
+
+## Capstone Project
+Week 17–18 → Fullstack Application : Not Started
