@@ -1,4 +1,5 @@
 # Software Engineering Learning Pathway Progress Tracker
+# Format: Week Name : Status (Not Started / In Progress / Completed)
 
 ## Frontend Development
 Week 1 → HTML Basics : Not Started
