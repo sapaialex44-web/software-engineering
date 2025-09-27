@@ -1,0 +1,25 @@
+SOFTWARE ENGINEERING LEARNING PATHWAY (High-Level)
+
+--- FRONTEND DEVELOPMENT ---
+Week 1 → HTML Basics
+Week 2 → CSS Basics
+Week 3 → CSS Intermediate
+Week 4–5 → JavaScript Basics
+Week 6 → JavaScript Intermediate
+Week 7 → Advanced Frontend (React)
+
+--- BACKEND DEVELOPMENT ---
+Week 8 → Introduction to Backend (Node.js)
+Week 9 → Express.js & Routing
+Week 10 → Databases (SQL & NoSQL)
+Week 11 → Authentication & Security
+Week 12 → Fullstack Integration
+
+--- EXTRA SKILLS ---
+Week 13 → Software Engineering Principles
+Week 14 → Software Testing
+Week 15 → Version Control & Collaboration
+Week 16 → DevOps & Deployment
+
+--- CAPSTONE PROJECT ---
+Week 17–18 → Build Fullstack Application (Task Manager, Blog, or E-commerce)
