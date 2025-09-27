@@ -1,0 +1,117 @@
+SOFTWARE ENGINEERING LEARNING PATHWAY
+
+--- FRONTEND DEVELOPMENT ---
+
+Week 1 → HTML Basics
+- Introduction to HTML & Document Structure
+- Headings, Paragraphs, Text Formatting
+- Lists, Links, Images
+- Tables & Forms
+- Mini Project: Personal Portfolio Page
+
+Week 2 → CSS Basics
+- CSS Syntax & Selectors
+- Colors, Fonts, and Text Styling
+- Box Model & Layout (margin, padding, border)
+- Flexbox Basics
+- Mini Project: Style the Portfolio Page
+
+Week 3 → CSS Intermediate
+- CSS Grid Layout
+- Positioning & Z-index
+- Responsive Design (Media Queries)
+- Transitions & Animations
+- Mini Project: Responsive Blog Layout
+
+Week 4–5 → JavaScript Basics
+- Variables, Data Types, Operators
+- Functions and Scope
+- DOM Manipulation (getElementById, querySelector)
+- Events & Event Listeners
+- Mini Project: Interactive To-Do List
+
+Week 6 → JavaScript Intermediate
+- Arrays & Objects
+- Loops and Iterations
+- ES6 Features (let, const, arrow functions, template literals)
+- Fetch API (basic data fetching)
+- Mini Project: Weather App
+- Deployment to cloud (Task Manager, Blog, or E-commerce)
+
+Week 7 → Advanced Frontend
+- JavaScript Modules
+- Introduction to React (Components, Props, State)
+- Handling Forms & Events in React
+- React Router Basics
+- Mini Project: Multi-page Personal Website
+
+--- BACKEND DEVELOPMENT ---
+
+Week 8 → Introduction to Backend
+- What is Backend Development?
+- Client vs Server
+- REST APIs & JSON basics
+- Node.js setup & first script
+- Mini Project: Simple “Hello World” API
+
+Week 9 → Express.js & Routing
+- Installing and using Express.js
+- Routes & Middleware
+- Handling GET & POST requests
+- Serving static files
+- Mini Project: Basic Blog API
+
+Week 10 → Databases (SQL & NoSQL)
+- Introduction to Databases
+- SQL Basics (Tables, CRUD)
+- NoSQL Basics (MongoDB collections)
+- Connecting Node.js to a database
+- Mini Project: User Registration System
+
+Week 11 → Authentication & Security
+- Password Hashing (bcrypt)
+- JSON Web Tokens (JWT)
+- Session vs Token-based Auth
+- Basic Security Practices (CORS, Helmet)
+- Mini Project: Login + Signup System
+
+Week 12 → Fullstack Integration
+- Connecting Frontend & Backend
+- Fetching Data from APIs in React
+- Error Handling
+- Deployment Basics (Heroku/Vercel/Render)
+- Mini Project: Fullstack To-Do App
+
+--- EXTRA SKILLS (Weeks 13–16) ---
+
+Week 13 → Software Engineering Principles
+- Software Development Life Cycle (SDLC)
+- Agile & Scrum
+- Requirements Analysis
+- UML Diagrams (Use Case, Class, Sequence)
+
+Week 14 → Software Testing
+- Unit Testing (Jest / Mocha)
+- Integration Testing
+- Test-Driven Development (TDD)
+- Mini Project: Write tests for your API
+
+Week 15 → Version Control & Collaboration
+- Git Basics (clone, add, commit, push)
+- Branching & Merging
+- Pull Requests on GitHub
+- Mini Project: Team collaboration on repo
+
+Week 16 → DevOps & Deployment
+- Continuous Integration (CI/CD)
+- Docker Basics
+- Cloud Platforms (AWS, GCP, Azure)
+- Final Project: Deploy Fullstack App to Cloud
+
+--- CAPSTONE PROJECT (Week 17–18) ---
+- Build a Fullstack Application (Task Manager, Blog, or E-commerce)
+- Frontend (React)
+- Backend (Node + Express)
+- Database (MongoDB or SQL)
+- Authentication & Authorization
+- Deployment to cloud
